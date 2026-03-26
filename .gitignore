@@ -1,0 +1,15 @@
+﻿## Специфично для .NET (Visual Studio / Rider)
+bin/
+obj/
+appsettings.Development.json
+*.user
+*.userosscache
+*.sln.doccache
+
+## Специфично для JetBrains (Rider)
+.idea/
+*.sln.iml
+
+## Кэш и временные файлы ОС
+.DS_Store
+Thumbs.db
