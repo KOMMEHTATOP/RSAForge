@@ -21,4 +21,7 @@
 Приложение является **Self-contained** — это значит, что вам не нужно устанавливать .NET, всё необходимое уже находится внутри одного `.exe` файла.
 
 ---
-*Developed by telegram: @BMBasharov*
+*Developed by telegram: 
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bmbasharov)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:basharovbmkz@gmail.com)
+*
